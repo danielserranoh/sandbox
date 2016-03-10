@@ -26,7 +26,7 @@ Link the DEVENV is the local user instead the admin:
 Launch Github desktop app
 Create a new Repository (+)
   name: sandbox
-  Path: User/Github/Sites/
+  Path: User/Github/Sites/ 
   The result will be a local folder -> User/Github/Sites/sandbox
 
 Add the basic file to setup the Repo
