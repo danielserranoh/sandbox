@@ -11,13 +11,13 @@ This is the Lab for playing around with GitHub AND several new tools I would lik
 
 ##### Setting up the  DEV ENVIRONMENT with OSX Server
 
-Install OSX Server from Apple´s App Store
-Launch OSX Server
-Activate the Websites and create the Default Server Website for both the 80 and 443 ports
-Create a Github folder under User/Github
-Create a Sites folder to store all the dev websites there -> User/Github/Sites
-Link the DEVENV is the local user instead the admin:
-  Go to Terminal
++ Install OSX Server from Apple´s App Store
++ Launch OSX Server
++ Activate the Websites and create the Default Server Website for both the 80 and 443 ports
++ Create a Github folder under User/Github
++ Create a Sites folder to store all the dev websites there -> User/Github/Sites
++ Go to *Terminal* to Link the DEVENV in the local user instead the admin:
+  
   Paste:  
   ``javascript
   ln -s /Users/danish/Github/Sites /Library/Server/Web/Data/Sites/Default/
