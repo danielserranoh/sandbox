@@ -18,15 +18,19 @@ Create a Github folder under User/Github
 Create a Sites folder to store all the dev websites there -> User/Github/Sites
 Link the DEVENV is the local user instead the admin:
   Go to Terminal
-  Paste:  ln -s /Users/danish/Github/Sites /Library/Server/Web/Data/Sites/Default/
+  Paste:  
+  ´´´´javascript
+  ln -s /Users/danish/Github/Sites /Library/Server/Web/Data/Sites/Default/
+  ´´´
 
+  
 [GIT Repo]:
 ##### Setting up the REPOSITORY in Github
 
 Launch Github desktop app
 Create a new Repository (+)
   name: sandbox
-  Path: User/Github/Sites/ 
+  Path: User/Github/Sites/
   The result will be a local folder -> User/Github/Sites/sandbox
 
 Add the basic file to setup the Repo
