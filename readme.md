@@ -2,7 +2,7 @@
 
 This is the Lab for playing around with GitHub AND several new tools I would like to add to my development environment.
 
-|  [WebServer][] | [GIT Repo][] | [Changelog][] |
+|  [WebServer] | [GIT Repo] | [Changelog][] |
 |---|---|---|
 
 
