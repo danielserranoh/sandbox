@@ -19,11 +19,11 @@ Create a Sites folder to store all the dev websites there -> User/Github/Sites
 Link the DEVENV is the local user instead the admin:
   Go to Terminal
   Paste:  
-  ´´´´javascript
+  ``javascript
   ln -s /Users/danish/Github/Sites /Library/Server/Web/Data/Sites/Default/
-  ´´´
+  ``
 
-  
+
 [GIT Repo]:
 ##### Setting up the REPOSITORY in Github
 
