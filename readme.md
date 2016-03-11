@@ -2,7 +2,7 @@
 
 This is the Lab for playing around with GitHub AND several new tools I would like to add to my development environment.
 
-|  [WebServer] | [GIT Repo] | [Changelog][] |
+|  WebServer | [GIT Repo] | [Changelog][] |
 |---|---|---|
 
 
@@ -21,7 +21,7 @@ This is the Lab for playing around with GitHub AND several new tools I would lik
   ``javascript
   ln -s /Users/danish/Github/Sites /Library/Server/Web/Data/Sites/Default/
   ``
-
+See http://undefinedvalue.com/2014/05/25/os-x-server-local-websites-web-developers
 
 [GIT Repo]:
 ##### Setting up the REPOSITORY in Github
