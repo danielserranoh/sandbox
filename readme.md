@@ -28,21 +28,28 @@ This is the Lab for playing around with GitHub AND several new tools I would lik
 
 Launch Github desktop app
 Create a new Repository (+)
+
   name: sandbox
+
   Path: User/Github/Sites/
+
   The result will be a local folder -> User/Github/Sites/sandbox
+  
 
 Add the basic file to setup the Repo
-  Add this readme.md file
-  Add .gitignore file - see https://github.com/github/gitignore
-  Add license file - see http://choosealicense.com
++  Add this readme.md file
++  Add .gitignore file - see https://github.com/github/gitignore
++  Add license file - see http://choosealicense.com
 
 
 
 ### References:
 http://undefinedvalue.com/2014/05/25/os-x-server-local-websites-web-developers
+
 http://php-osx.liip.ch
+
 http://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x
+
 https://getgrav.org/blog/mac-os-x-apache-setup-multiple-php-versions
 
 
