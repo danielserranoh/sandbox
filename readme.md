@@ -39,7 +39,7 @@ Add the basic file to setup the Repo
 
 
 
-[References]:
+### References:
 http://undefinedvalue.com/2014/05/25/os-x-server-local-websites-web-developers
 http://php-osx.liip.ch
 http://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x
