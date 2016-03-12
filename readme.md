@@ -2,12 +2,12 @@
 
 This is the Lab for playing around with GitHub AND several new tools I would like to add to my development environment.
 
-|  WebServer | [GIT Repo] | [Changelog][] |
-|---|---|---|
+|  WebServer | [GIT Repo] | [References][] | [Changelog][] |
+|---|---|---|---|
 
 
 
-[WebServer]:
+### WebServer:
 
 ##### Setting up the  DEV ENVIRONMENT with OSX Server
 
@@ -21,9 +21,9 @@ This is the Lab for playing around with GitHub AND several new tools I would lik
   ``javascript
   ln -s /Users/danish/Github/Sites /Library/Server/Web/Data/Sites/Default/
   ``
-See http://undefinedvalue.com/2014/05/25/os-x-server-local-websites-web-developers
 
-[GIT Repo]:
+
+### GIT Repo:
 ##### Setting up the REPOSITORY in Github
 
 Launch Github desktop app
@@ -39,3 +39,9 @@ Add the basic file to setup the Repo
 
 
 [Changelog]:https://github.com/danielserranoh/sandbox/releases
+
+[References]:
+http://undefinedvalue.com/2014/05/25/os-x-server-local-websites-web-developers
+http://php-osx.liip.ch
+http://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x
+https://getgrav.org/blog/mac-os-x-apache-setup-multiple-php-versions
